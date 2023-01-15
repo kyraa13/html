@@ -1,0 +1,30 @@
+<!-- Pembuatan list ol, ul dan dl-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>list</title>
+</head>
+<body>
+	<ol>Minuman
+		<li>Air mineral</li>
+		<li>Air teh</li>
+		<li>Jus jeruk</li>
+		<li>Jus Alpukat</li>
+	</ol>
+
+	<ul>Makanan
+		<li>Gorengan</li>
+		<li>Pizza</li>
+		<li>Mie rebus</li>
+		<li>Sosis bakar</li>
+	</ul>
+
+	<dl>Cemilan
+		<li>Ciki lays</li>
+		<li>Kuaci</li>
+	</dl>
+</body>
+</html>
