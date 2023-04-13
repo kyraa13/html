@@ -1,0 +1,15 @@
+<!--  -->                 Defines a comment
+<!DOCTYPE>                Defines the document type
+<a>                       Defines a hyperlink
+<abbr>                    Defines an abbreviation
+<address>                 Defines contact information for the author/owner of a document
+<area>                    Defines an area inside an image map
+<article>                 Defines an article
+<aside>                   Defines content aside from the page content
+<audio>                   Defines embedded sound content
+<b>                       Defines bold text
+<base>                    Spesifies the base URL/target for all relative URLs in a doacument
+<bdi>                     Isolates a part of text that might be formatted in a different direction from other text outside it
+<bdo>                     Overrides the current text direction
+<blockuote>               Defines a section that is quoted from another source
+<body>                    Defines the document's body
