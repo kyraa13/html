@@ -14,3 +14,7 @@
 <blockuote>               Defines a section that is quoted from another source
 <body>                    Defines the document's body
 <br>                      Defines a single line break 
+<button>                  Defines a clickable button
+<canvas>                  Used to a draw graphics, on the fly, via scripting (usuali javascript)
+<caption>                 Defines a table caption
+<cite>                    Defines a title of a work
