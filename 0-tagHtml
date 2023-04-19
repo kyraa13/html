@@ -18,3 +18,9 @@
 <canvas>                  Used to a draw graphics, on the fly, via scripting (usuali javascript)
 <caption>                 Defines a table caption
 <cite>                    Defines a title of a work
+<code>                    Defines a piece of computer code
+<col>                     Spesifies column properties for each column within a <colgroup> element
+<colgroup>                Specifies a group of one or more columns in a table for formatting
+<data>                    Add a machine-readable translation of given content
+<datalist>                Specifies a list of pre-defined oftions for input controls
+<dd>                      Defines a descriptions/value of a term in a description list
