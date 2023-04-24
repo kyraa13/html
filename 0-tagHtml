@@ -24,3 +24,10 @@
 <data>                    Add a machine-readable translation of given content
 <datalist>                Specifies a list of pre-defined oftions for input controls
 <dd>                      Defines a descriptions/value of a term in a description list
+<del>                     Defines text that has been deleted from a document
+<details>                 Defines addtitional details that the user can view or hide
+<dfn>                     Specifies a term that is going to be defined within the content
+<dialog>                  Defines a dialog box or window
+<div>                     Defines a section in a document
+<dl>                      Defines a description list
+<dt>                      Defines a a term/name in a description list
