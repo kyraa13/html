@@ -31,3 +31,25 @@
 <div>                     Defines a section in a document
 <dl>                      Defines a description list
 <dt>                      Defines a a term/name in a description list
+<em>                      Defines emphasized text
+<embed>                   Defines a container for an external application
+<fieldset>                Groups related elements in a form
+<figcaption>              Defines a caption for a <figure> element
+<figure>                  Specifies self-contained content
+<footer>                  Defines a footer for a document or a section
+<form>                    Defines an HTML form for user input
+<h1> to <h6>              Defines HTML headings
+<head>                    Contains metadata/information for the document
+<header>                  Defines a header for a document or section
+<hr>                      Defines a thematic change in the content
+<html>                    Defines the root of an HTML document
+<i>                       Defines a part of text in an alternate voice or mode
+<iframe>                  Defines an inline frame
+<img>                     Defines an image
+<input>                   Defines an input control
+<ins>                     Defines a text that has been inserted into a document
+<kbd>                     Defines keyboard input
+<label>                   Defines an label for an <input> element
+<legend>                  Defines a caption for a <fieldshit> element
+<li>                      Defines a list item
+<link>                    Defines the relationship between a document and an external resource (most used to link to style sheets) 
