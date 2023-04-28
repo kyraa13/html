@@ -65,3 +65,12 @@
 <optgroup>                Defines a group of related options in a drop-down list 
 <option>                  Defines an option in a drop-down list
 <output>                  Defines the result of a calculation
+<p>                       Defines a paragraph
+<param>                   Defines a parameter for an object
+<picture>                 Defines a container for a multiple image resources
+<pre>                     Defines preformatted text
+<progress>                Represents the progress of a task
+<q>                       Defines a short quotation
+<rp>                      Defines what to show in the browsers that do not support ruby annotations
+<rt>                      Defines an explanation/pronunciation of characters (for East Asian Typography)
+<ruby>                    Defines a ruby annotation (for East Asian Typography)
