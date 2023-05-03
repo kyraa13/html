@@ -74,3 +74,17 @@
 <rp>                      Defines what to show in the browsers that do not support ruby annotations
 <rt>                      Defines an explanation/pronunciation of characters (for East Asian Typography)
 <ruby>                    Defines a ruby annotation (for East Asian Typography)
+<s>                       Defines text that is no longer corret
+<samp>                    Defines sample output from computer a program
+<script>                  Defines a client-side script
+<section>                 Defines a section in a document
+<select>                  Defines a drop-down list
+<small>                   Defines a smaller text
+<source>                  Defines multiple media resources for media elements (<video> and <audio>)
+<span>                    Defines a ssection in a document
+<strong>                  Defines in a important text
+<style>                   Defines style information for a document
+<sub>                     Defines subscripted text
+<summary>                 Defines a visible heading for a <details> element
+<sup>                     Defines superscripted text
+<svg>                     Defines a container for SVG graphics
