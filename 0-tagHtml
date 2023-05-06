@@ -88,3 +88,20 @@
 <summary>                 Defines a visible heading for a <details> element
 <sup>                     Defines superscripted text
 <svg>                     Defines a container for SVG graphics
+<table>                   Defines a table
+<tbody>                   Groups the body content in a table
+<td>                      Defines a cell in a table
+<template>                Defines a container for content that should be hidden when the page loads
+<textarea>                Defines a multiline input control (text area)
+<tfoot>                   Groups the footer content in a table
+<th>                      Defines a header cell in a table
+<thead>                   Groups the header content in a table
+<time>                    Defines in a specific time (or datetime)
+<title>                   Defines a title for the document
+<tr>                      Defines a row in a table
+<track>                   Defines text tracks for media elements (<video> and <audio>)
+<u>                       Defines some text that is unarticulated and styled differently from normal text
+<ul>                      Defines a unordered list
+<var>                     Defines a variable
+<video>                   Defines embedded video content
+<wbr>                     Defines a possible line-break
